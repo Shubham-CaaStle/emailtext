@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@700&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+
+    <div>
+        <h1> CaaStle email by Mkt Ops</h1>
+    </div>
+
+    <div>
+        <img src="https://ci4.googleusercontent.com/proxy/y64M0UeM3cMSVRV_xvzTpkuJr-Q_2DO37dreH-3BXAyxpOEfVlJb32mm7Qb2DYrqAXRnasyX8RLabHAIf2JDQg=s0-d-e1-ft#https://i.postimg.cc/bYZkTtTr/email-image.jpg" alt="Caastle image">
+    </div>
+    
+</body>
+</html>
